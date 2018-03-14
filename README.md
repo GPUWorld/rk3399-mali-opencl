@@ -1,6 +1,6 @@
 # rk3399-mali-opencl
 
-After ensuring the `clinfo`, make a new directory named `CL` below `/usr/include/`. And then put these files in `/usr/include/CL`. 
+After ensuring that `clinfo` command is available, execute commands below:
 
 ```shell
 sudo mkdir /usr/include/CL
